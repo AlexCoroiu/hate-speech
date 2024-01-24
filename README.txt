@@ -8,3 +8,4 @@ The ML pipeline:
 - runs the classifier using the scikit-learn library
 - outputs the performance metrics in readable table format
   
+Paper available: https://essay.utwente.nl/78739/ 
